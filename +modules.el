@@ -6,5 +6,6 @@
 (load! "+theme")
 (load! "+org")
 (load! "+zettelkasten")
+(load! "+clojure")
 (load! "+posframe")
 (load! "+keybindings")
