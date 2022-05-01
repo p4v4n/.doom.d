@@ -8,5 +8,7 @@
 (load! "+zettelkasten")
 (load! "+clojure")
 (load! "+lsp")
+(load! "+term")
+(load! "+shell")
 (load! "+posframe")
 (load! "+keybindings")
