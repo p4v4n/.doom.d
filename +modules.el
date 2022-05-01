@@ -5,5 +5,6 @@
 (load! "+company")
 (load! "+theme")
 (load! "+org")
+(load! "+zettelkasten")
 (load! "+posframe")
 (load! "+keybindings")
