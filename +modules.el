@@ -2,4 +2,5 @@
 
 (load! "+ivy")
 (load! "+git")
+(load! "+posframe")
 (load! "+keybindings")
