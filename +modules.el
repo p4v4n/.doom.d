@@ -7,5 +7,6 @@
 (load! "+org")
 (load! "+zettelkasten")
 (load! "+clojure")
+(load! "+lsp")
 (load! "+posframe")
 (load! "+keybindings")
