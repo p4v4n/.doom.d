@@ -4,5 +4,6 @@
 (load! "+git")
 (load! "+company")
 (load! "+theme")
+(load! "+org")
 (load! "+posframe")
 (load! "+keybindings")
