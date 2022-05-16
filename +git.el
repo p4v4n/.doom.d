@@ -16,8 +16,13 @@
   :after magit
   :config  (setq forge-topic-list-limit '(80 . 0)))
 
-
 (use-package! why-this
   :config
   (global-why-this-mode)
   (setq why-this-idle-delay 1.2))
+
+(use-package! magit-todos
+  :after magit
+  :config
+  ;;(magit-todos-mode)
+  )
